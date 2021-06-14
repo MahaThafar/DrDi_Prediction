@@ -1,0 +1,4 @@
+The gold standard dataset (FDataset) used in this study is obtained from the Supplementary Material of paper Gottlieb et al. (2011 ), which collected comprehensive associations between drugs and diseases from multiple data sources. For this dataset, there are 1933 known drug–disease associations involving 593 drugs registered in DrugBank ( Wishart et al. , 2008 ) and 313 diseases listed in the Online Mendelian Inheritance in Man (OMIM) ( Hamosh et al. , 2002 )
+
+
+CDataset is bigger. drugs# 663, diseases# 409
